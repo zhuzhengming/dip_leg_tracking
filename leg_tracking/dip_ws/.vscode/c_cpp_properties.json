@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/zhuzhengming/workspace/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/zhuzhengming/workspace/src/darknet_ros/darknet_ros/include/**",
+        "/home/zhuzhengming/workspace/src/ltme_node/include/**",
+        "/home/zhuzhengming/workspace/src/my_demo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

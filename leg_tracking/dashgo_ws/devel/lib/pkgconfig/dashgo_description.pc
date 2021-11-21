@@ -1,0 +1,8 @@
+prefix=/home/zhuzhengming/dashgo_ws/devel
+
+Name: dashgo_description
+Description: Description of dashgo_description
+Version: 2.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

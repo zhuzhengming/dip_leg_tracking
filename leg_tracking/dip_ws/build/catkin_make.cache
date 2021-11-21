@@ -1,0 +1,2 @@
+image_pkg
+-DCATKIN_DEVEL_PREFIX=/home/zhuzhengming/dip_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhuzhengming/dip_ws/install -G Unix Makefiles

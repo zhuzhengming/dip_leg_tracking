@@ -1,0 +1,8 @@
+prefix=/home/zhuzhengming/dip_ws/src/cmake-build-debug/devel
+
+Name: image_pkg
+Description: Description of image_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
