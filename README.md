@@ -9,7 +9,9 @@
 - scripts used to save pictures ordinally
 - publisher node of raw image
 
- 
+- yolov3-tiny_40000.weighs(about people's leg)
+
+
 
 #### carried on jeston nano.
 
