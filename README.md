@@ -11,5 +11,12 @@
 
  
 
-carried on jeston nano.
+#### carried on jeston nano.
 
+- **performance:**   This system can follow specific people's leg accurately at low linear speeds. 
+
+10fps
+
+PID control
+
+zed_camera 
