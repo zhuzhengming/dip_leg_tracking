@@ -44,7 +44,7 @@
 
 - # Project Structure
 
-![](https://github.com/zhuzhengming/dip_leg_tracking/picture/pic1.png)
+![](https://github.com/zhuzhengming/dip_leg_tracking/blob/main/picture/pic1.png)
 
 - ### Details of all parts:
 
@@ -64,7 +64,7 @@
 
     - YOLOv3-tiny :
 
-      - ![](https://github.com/zhuzhengming/dip_leg_tracking/picture/pic2.png)
+      - ![](https://github.com/zhuzhengming/dip_leg_tracking/blob/main/picture/pic2.png)
 
       The backbone network has 7 3×3 convolutional layers, 6 pooling layers.
 
@@ -76,7 +76,7 @@
 
     - 图片如下:
 
-      ![](https://github.com/zhuzhengming/dip_leg_tracking/picture/pic3.png)
+      ![](https://github.com/zhuzhengming/dip_leg_tracking/blob/main/picture/pic3.png)
 
   - pid tracking: 
 
