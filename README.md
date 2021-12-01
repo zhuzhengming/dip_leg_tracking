@@ -44,7 +44,7 @@
 
 - # Project Structure
 
-![image-20211201102741730](C:\Users\Zz\AppData\Roaming\Typora\typora-user-images\image-20211201102741730.png)
+![pic1](https://github.com/zhuzhengming/dip_leg_tracking/picture/pic1.png)
 
 - ### Details of all parts:
 
@@ -64,7 +64,7 @@
 
     - YOLOv3-tiny :
 
-      - ![image-20211201105327628](C:\Users\Zz\AppData\Roaming\Typora\typora-user-images\image-20211201105327628.png)
+      - ![pic2](https://github.com/zhuzhengming/dip_leg_tracking/picture/pic2.png)
 
       The backbone network has 7 3×3 convolutional layers, 6 pooling layers.
 
@@ -76,7 +76,7 @@
 
     - 图片如下:
 
-      ![Screenshot from 2021-11-30 22-45-03](C:\Users\Zz\Desktop\Screenshot from 2021-11-30 22-45-03.png)
+      ![pic3](https://github.com/zhuzhengming/dip_leg_tracking/picture/pic3.png)
 
   - pid tracking: 
 
